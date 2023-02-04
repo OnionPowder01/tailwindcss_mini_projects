@@ -22,4 +22,11 @@ Image Gallery mini-project from Tailwind course.
 
 ![Alt text](./image-gallery/images/image-gallery.png)
 
+# Login Modal Project
+
+Login Modal mini-project from Tailwind course.
+
+![Alt text](./login-modal/images/login-modal.png)
+
+
 
